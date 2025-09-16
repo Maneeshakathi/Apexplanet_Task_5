@@ -37,5 +37,3 @@ Click Print Receipt 🖨️ to get a printable version.
 🎨 Author
 Kathi Maneesha – ~ Designer
 
-vbnet
-Copy code
